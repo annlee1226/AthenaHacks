@@ -2,6 +2,11 @@
 
 An interactive cybersecurity simulation game that educates users on threat detection, malware defense, and ethical hacking techniques—drawing inspiration from the legendary Trojan Horse of Greek mythology.
 
+
+<img width="806" height="492" alt="image" src="https://github.com/user-attachments/assets/a83fd800-e0ce-4b12-a8e0-964948414cbb" />
+
+
+
 ## Built With
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
