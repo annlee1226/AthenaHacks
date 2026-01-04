@@ -35,9 +35,13 @@ All within a strategic, mythologically inspired cyber battlefield.
   <img width="806" alt="Game Dashboard" src="https://github.com/user-attachments/assets/cf8c2ba3-57cd-45f1-9fc5-f3213fc09b13" />
 </p>
 
+---
+
 <p align="center">
   <img width="806" alt="System Symptoms" src="https://github.com/user-attachments/assets/93faf233-0557-4f77-907a-cefe8f6b9067" />
 </p>
+
+---
 
 <p align="center">
   <img width="806" alt="Threat Neutralized" src="https://github.com/user-attachments/assets/7545a6e3-3829-49bb-845b-1dde43a0f884" />
