@@ -1,7 +1,4 @@
-# AthenaHacks
-
-
-# AI Trojan Horse 
+# AthenaHacks - AI Trojan Horse 
 
 An interactive cybersecurity simulation game that educates users on threat detection, malware defense, and ethical hacking techniques—drawing inspiration from the legendary Trojan Horse of Greek mythology.
 
